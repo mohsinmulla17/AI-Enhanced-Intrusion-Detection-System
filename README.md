@@ -14,7 +14,7 @@ Scikit-learn (Machine Learning)
 Imbalanced-learn (SMOTE for Class Balancing)
 Joblib (Model Serialization)
 
-🗂 Project Directory Structure
+Project Directory Structure :
 AI-ENHANCED-INTRUSION-DETECTION/
 ├── CYBER_PROJECT/
 │ ├── templates/
@@ -27,4 +27,3 @@ AI-ENHANCED-INTRUSION-DETECTION/
 │ └── README.md                                  # Project documentation
 ├── Documentation...
 └── README.md 
-
