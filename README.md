@@ -14,3 +14,17 @@ Scikit-learn (Machine Learning)
 Imbalanced-learn (SMOTE for Class Balancing)
 Joblib (Model Serialization)
 
+🗂 Project Directory Structure
+AI-ENHANCED-INTRUSION-DETECTION/
+├── CYBER_PROJECT/
+│ ├── templates/
+│ │ └── index.html                             # Web interface template
+│ ├── app.py                                   # Flask application entry point
+│ ├── random_forest_model_4_features.joblib      
+│ ├── web_attacks_balanced.csv                   # Preprocessed dataset
+│ ├── requirment.txt                             # Python dependencies
+│ ├── Untitled.ipynb                             # Data analysis / experimentation notebook
+│ └── README.md                                  # Project documentation
+├── Documentation...
+└── README.md 
+
